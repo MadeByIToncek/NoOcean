@@ -1,0 +1,4 @@
+name: No-Ocean
+version: ${project.version}
+main: cf.itoncek.noocean.NoOcean
+api-version: 1.13
